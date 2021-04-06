@@ -5,7 +5,7 @@
 ProcMan is a basic application to simply manage linux processes in Rust.
 Through the application you can display the process list and monitor when a new process arrives.
 
-🔒 Implemented using 100% safe rust and works on all platforms supported by rust
+🔒 Implemented using 100% safe rust and works on Linux and WSL
 
 ## Usage
 ```bash
